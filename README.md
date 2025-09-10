@@ -30,7 +30,7 @@ Steps I followed:
 4.Created measures like Total Sales, Total Orders, Total Customers, Avg Order Value, Churn Rate %
 5.Built relationships between helper table and main one
 
-# The Analysis 
+## The Analysis 
 # Sales Overview
 - **KPIs:** Total Sales ($2M), Total Orders (4,922), Customers (793).
 - **Trends:** Sales grew steadily between 2015–2018, with seasonality peaks in November & December.
