@@ -51,7 +51,7 @@ Steps I followed:
 - **Segments:** Consumer = 52% of customers, Corporate = 30%, Home Office = 18%.
 - **Churn Rate:** Dropped from 27% (2016) to 13% (2018).
 - **Customer Value Buckets:** Medium (1K–5K) accounts for most customers, but High (>5K) drives disproportionate revenue.
-- **Top Customers:** Sean Miller leads with $25K sales.
+- **Top Customers:** Our top 3 customers have churned. Sales/Marketing should target to bring them back.
 
 ## Region Insights
 ![Regional Insights](Region_insights.png)
