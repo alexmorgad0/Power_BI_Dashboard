@@ -30,26 +30,26 @@ Steps I followed:
 4.Created measures like Total Sales, Total Orders, Total Customers, Avg Order Value, Churn Rate %
 5.Built relationships between helper table and main one
 
-## The Analysis 
-# Sales Overview
+# The Analysis 
+## Sales Overview
 - **KPIs:** Total Sales ($2M), Total Orders (4,922), Customers (793).
 - **Trends:** Sales grew steadily between 2015–2018, with seasonality peaks in November & December.
 - **Category Split:** Technology leads with $827K (36.6%), followed by Furniture ($729K, 32.2%) and Office Supplies ($705K, 31.2%).
 
 
-# Product Insights
+## Product Insights
 - **Top Categories:** Technology dominates, driven by Phones and Machines.
 - **Top Sub-Categories:** Phones, Chairs, and Storage lead revenue.
 - **Top 10 Products:** Canon Copier is #1 with $61K sales.
 - **Treemap:** Shows clear revenue concentration in a few sub-categories within each category.
 
-# Customer Insights
+## Customer Insights
 - **Segments:** Consumer = 52% of customers, Corporate = 30%, Home Office = 18%.
 - **Churn Rate:** Dropped from 27% (2016) to 13% (2018).
 - **Customer Value Buckets:** Medium (1K–5K) accounts for most customers, but High (>5K) drives disproportionate revenue.
 - **Top Customers:** Sean Miller leads with $25K sales.
 
-# Region Insights
+## Region Insights
 - **Top States:** California ($457K) and New York ($309K) dominate.
 - **Growth Trends:** California and New York shows consistent year-on-year growth while Texas is falling behind.
 
