@@ -6,10 +6,15 @@ The goal of this project was to explore and understand sales patterns across pro
 The dataset comes from a retail sales dataset ([Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)), containing detailed information on orders, customers, products, and regions.
 
 This dashboard helps answer key business questions such as:
+
 1.What are the overall sales trends by year and month?
+
 2.Which product categories and subcategories drive the most sales?
+
 3.Who are the most valuable customers?
+
 4.How does customer churn evolve over time?
+
 5.Which states and cities generate the highest revenue?
 
 # Tools I Used
