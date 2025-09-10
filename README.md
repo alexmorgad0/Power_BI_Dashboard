@@ -19,7 +19,7 @@ This dashboard helps answer key business questions such as:
 
 # Tools I Used
 
-For my deep dive into the data analyst job market, I harnessed the power of several key tools:
+To build the dashboard, I harnessed the power of several key tools:
 
 - **Power BI:** for dashboard creation, modeling, and interactivity
 - **DAX:** for KPIs and custom measures (e.g., churn rate, buckets, averages)
