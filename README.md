@@ -29,10 +29,15 @@ To build the dashboard, I harnessed the power of several key tools:
 # Data Preparation & Modeling
 
 Steps I followed:
+
 1.Imported the sales dataset into Power BI.
+
 2.Cleaned and standardized fields (e.g., dates, sales values).
+
 3.Created calculated columns like Customer Value Buckets (Low <1K, Medium 1K–5K, High >5K).
+
 4.Created measures like Total Sales, Total Orders, Total Customers, Avg Order Value, Churn Rate %
+
 5.Built relationships between helper table and main one
 
 # The Analysis 
